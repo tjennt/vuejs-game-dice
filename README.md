@@ -1,5 +1,5 @@
 # game
-LIVE DEMO: https://vuejs-game-dice.vercel.app
+LIVE DEMO: https://tiennt-vuejs-game-dice.vercel.app/
 > A Vue.js project
 
 ## Build Setup
